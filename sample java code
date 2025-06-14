@@ -1,4 +1,9 @@
-mvn archetype:generate -DgroupId=com.example \
-  -DartifactId=sample-java-app \
-  -DarchetypeArtifactId=maven-archetype-webapp \
-  -DinteractiveMode=false
+
+public class Test {
+
+public static void main(String[] args) {
+system.out.println("***********************************");
+System.out.println("Hello from GITHub");
+System.out.println("******************************"
+}
+}
